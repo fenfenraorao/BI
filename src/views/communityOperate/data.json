@@ -1,0 +1,661 @@
+{
+  "topLeft": [
+    {
+      "name": "house",
+      "statistical": [ 
+        {
+          "key": "管家成交单数",
+          "value": "738",
+          "primary": false
+        },
+        {
+          "key": "合计收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        },
+        {
+          "key": "毛利润收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        }
+      ],
+      "dataDetail": [
+        {
+          "key": "在租房源",
+          "value": 1023,
+          "noBackground": true
+        },
+        {
+          "key": "法拍房源",
+          "value": 225,
+          "noBackground": true
+        },
+        {
+          "key": "物业租赁房源",
+          "value": "837",
+          "noBackground": true
+        }
+      ],
+      "records": {
+        "title": "管家交易记录",
+        "total": 100,
+        "list": [
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          }
+        ]
+      },
+      "pieData": [
+        { "value": 1048, "name": "搜索引擎" },
+        { "value": 104, "name": "直接访问" },
+        { "value": 148, "name": "邮件营销" }
+      ],
+      "pieColor": [
+        "#FF8736",
+        "#4085FF",
+        "#EDEBEC"
+      ]
+    },
+    {
+      "name": "community",
+      "statistical": [
+        {
+          "key": "电商成单数",
+          "value": "738",
+          "primary": false
+        },
+        {
+          "key": "合计收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        },
+        {
+          "key": "毛利润收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        }
+      ],
+      "records": {
+        "title": "管家交易记录",
+        "total": 100,
+        "list": [
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          }
+        ]
+      }
+    },
+    {
+      "name": "auction",
+      "statistical": [
+        {
+          "key": "电商成单数",
+          "value": "738",
+          "primary": false
+        },
+        {
+          "key": "合计收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        },
+        {
+          "key": "毛利润收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        }
+      ],
+      "records": {
+        "title": "管家交易记录",
+        "total": 100,
+        "list": [
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          },
+          {
+            "content": "用户177****7869与社区管家完成了租房签约 ",
+            "time": "2020.03.03 14:23"
+          }
+        ]
+      }
+    }
+  ],
+  "sum": [
+    {
+      "key": "合计收入",
+      "value": "542,346",
+      "primary": false
+    },
+    {
+      "key": "运营毛利润",
+      "value": "542,346",
+      "primary": true
+    },
+    {
+      "key": "毛利润收益",
+      "value": "447231",
+      "primary": true
+    }
+  ],
+  "project":[
+    {
+      "key": "楼栋(栋)",
+      "value": "542,346"
+    },
+    {
+      "key": "单元(个)",
+      "value": "542,346"
+    },
+    {
+      "key": "房屋(户)",
+      "value": "542,346"
+    },
+    {
+      "key": "居民(人)",
+      "value": "542,346"
+    },
+    {
+      "key": "车辆(辆)",
+      "value": "542,346"
+    },
+    {
+      "key": "二轮车(辆)",
+      "value": "542,346"
+    }
+  ],
+  "barData": [
+    {
+      "key": "业主/人",
+      "value": "542,346",
+      "percentage": "65%",
+      "primary": true
+    },
+    {
+      "key": "租户/人",
+      "value": "542,346",
+      "percentage": "35%",
+      "primary": false
+    }
+  ],
+  "parking": {
+    "name": "parking",
+    "number": 6,
+    "height": 30,
+    "sum": [ 
+      {
+        "key": "营收总金额",
+        "value": "73883",
+        "unit": "元",
+        "primary": true
+      },
+      {
+        "key": "毛利润收益",
+        "value": "73883",
+        "unit": "元",
+        "primary": true
+      }
+    ],
+    "totalParking": 2783,
+    "todayParking": 36,
+    "weekParking": 702,
+    "records": {
+      "list": [
+        {
+          "content": "用户177****7869与社区管家完成了租房签约 ",
+          "time": "2020.03.03 14:23"
+        },
+        {
+          "content": "用户177****7869与社区管家完成了租房签约 ",
+          "time": "2020.03.03 14:23"
+        },
+        {
+          "content": "用户177****7869与社区管家完成了租房签约 ",
+          "time": "2020.03.03 14:23"
+        },
+        {
+          "content": "用户177****7869与社区管家完成了租房签约 ",
+          "time": "2020.03.03 14:23"
+        },
+        {
+          "content": "用户177****7869与社区管家完成了租房签约 ",
+          "time": "2020.03.03 14:23"
+        }
+      ]
+    }
+  },
+  "law": {
+    "name": "law",
+    "statistical": [ 
+      {
+        "key": "法律咨询数",
+        "value": "738",
+        "primary": false
+      },
+      {
+        "key": "法律合作量",
+        "value": "447231",
+        "primary": false
+      },
+      {
+        "key": "转化率",
+        "value": "17%",
+        "primary": false
+      },
+      {
+        "key": "合计收益",
+        "value": "447231",
+        "unit": "元",
+        "primary": true
+      },
+      {
+        "key": "毛利润收益",
+        "value": "447231",
+        "unit": "元",
+        "primary": true
+      }
+    ],
+    "dataDetail": [
+      {
+        "key": "综合法律",
+        "value": "23"
+      },
+      {
+        "key": "民事法律",
+        "value": "23"
+      },
+      {
+        "key": "知识产权",
+        "value": "24"
+      },
+      {
+        "key": "涉外法律",
+        "value": "24"
+      },
+      {
+        "key": "经济法律",
+        "value": "24"
+      },
+      {
+        "key": "房地产",
+        "value": "24"
+      },
+      {
+        "key": "债权债务",
+        "value": "24"
+      },
+      {
+        "key": "合同法",
+        "value": "24"
+      },
+      {
+        "key": "婚姻家庭",
+        "value": "24"
+      }
+    ]
+  },
+  "financial": {
+    "name": "financial",
+    "statistical": [ 
+      {
+        "key": "房抵押贷款",
+        "value": "47,234",
+        "unit": "元",
+        "primary": false
+      },
+      {
+        "key": "车抵押贷款",
+        "value": "447231",
+        "unit": "元",
+        "primary": false
+      },
+      {
+        "key": "消费抵押贷款",
+        "value": "47,234",
+        "unit": "元",
+        "primary": false
+      },
+      {
+        "key": "拓展合作银行开户",
+        "value": "737"
+      }
+    ]
+  },
+  "housekeeping": {
+    "name": "housekeeping",
+    "statistical": [ 
+      {
+        "key": "家政成交单数",
+        "value": "738",
+        "primary": false
+      },
+      {
+        "key": "合计收益",
+        "value": "447231",
+        "unit": "元",
+        "primary": true
+      },
+      {
+        "key": "毛利润收益",
+        "value": "73883",
+        "unit": "元",
+        "primary": true
+      }
+    ],
+    "dataDetail": [
+      {
+        "key": "家电维修",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "民事法律",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "知识产权",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "涉外法律",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "经济法律",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "房地产",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "债权债务",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "合同法",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "key": "婚姻家庭",
+        "list": [
+          {
+            "key": "下单",
+            "value": "738",
+            "primary": false
+          },
+          {
+            "key": "营收(元)",
+            "value": "73883",
+            "primary": true
+          },
+          {
+            "key": "利润(元)",
+            "value": "73883",
+            "primary": true
+          }
+        ]
+      }
+    ]
+  },
+  "bottomRight": [
+    {
+      "name": "water",
+      "statistical": [ 
+        {
+          "key": "使用次数",
+          "value": "738",
+          "primary": false
+        },
+        {
+          "key": "合计收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        },
+        {
+          "key": "毛利润收益",
+          "value": "73883",
+          "unit": "元",
+          "primary": true
+        }
+      ],
+      "dataDetail": [
+        {
+          "key": "综合法律",
+          "value": "23"
+        },
+        {
+          "key": "民事法律",
+          "value": "23"
+        },
+        {
+          "key": "知识产权",
+          "value": "24"
+        },
+        {
+          "key": "涉外法律",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "electric",
+      "statistical": [ 
+        {
+          "key": "使用次数",
+          "value": "738",
+          "primary": false
+        },
+        {
+          "key": "合计收益",
+          "value": "447231",
+          "unit": "元",
+          "primary": true
+        },
+        {
+          "key": "毛利润收益",
+          "value": "73883",
+          "unit": "元",
+          "primary": true
+        }
+      ],
+      "dataDetail": [
+        {
+          "key": "综合法律",
+          "value": "23"
+        },
+        {
+          "key": "民事法律",
+          "value": "23"
+        },
+        {
+          "key": "知识产权",
+          "value": "24"
+        },
+        {
+          "key": "涉外法律",
+          "value": "24"
+        }
+      ]
+    }
+  ]
+}
